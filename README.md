@@ -6,7 +6,7 @@ This application was designed so the user can type in text content whether the a
 
 [Heroku Link - Deployed Site](https://angi-text-editor.herokuapp.com/)
 
-![The-Text-Editor Screenshot](/assets/textEditorSS.png)
+![The-Text-Editor Screenshot](textEditorSS.png)
 
 ## Acceptance Criteria
 
